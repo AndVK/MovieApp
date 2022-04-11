@@ -1,6 +1,6 @@
 <h1 align="center">Movie App</h1>
 
-<img src="https://s7.gifyu.com/images/video14828784504d724df7f5370264.gif" />
+<img src="https://s7.gifyu.com/images/video1482878450eef3e4f0abb5fb62.gif" width="700px"/>
 
 # Getting Started with Create React App
 
